@@ -1,1 +1,1 @@
-![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan-ciganovic&theme=material-palenight&show_icons=true)
+![Milan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=milan-ciganovic)
