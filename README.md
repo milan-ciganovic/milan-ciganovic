@@ -1,4 +1,4 @@
-### Hi 👋
+### Greetings 🧙🏻‍♂️
 
 I'm a software engineer at [Claimd](https://claimd.app)
 
