@@ -1,6 +1,6 @@
 ### Greetings 🧙🏻‍♂️
 
-I'm a software engineer at [Claimd](https://claimd.app)
+I'm a software engineer at [Claimd.app](https://claimd.app)
 
 - 🎯 I talk about about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 🥽 I'm currently learning algorithms, Vue.js and Golang
